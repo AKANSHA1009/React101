@@ -1,3 +1,3 @@
 
-This is the React tutorial
-author akansha sharma
+This is the React tutorial <br>
+Author: Akansha Sharma
